@@ -1,0 +1,16 @@
+D:\User\Development\Visual Stadio 2015\Projects\TouhouAI\TouhouAIUI\TouhouAIUI\bin\Release\TouhouAIUI.exe.config
+D:\User\Development\Visual Stadio 2015\Projects\TouhouAI\TouhouAIUI\TouhouAIUI\bin\Release\TouhouAIUI.exe
+D:\User\Development\Visual Stadio 2015\Projects\TouhouAI\TouhouAIUI\TouhouAIUI\bin\Release\TouhouAIUI.pdb
+D:\User\Development\Visual Stadio 2015\Projects\TouhouAI\TouhouAIUI\TouhouAIUI\obj\Release\TouhouAIUI.csprojResolveAssemblyReference.cache
+D:\User\Development\Visual Stadio 2015\Projects\TouhouAI\TouhouAIUI\TouhouAIUI\obj\Release\MainWindow.g.cs
+D:\User\Development\Visual Stadio 2015\Projects\TouhouAI\TouhouAIUI\TouhouAIUI\obj\Release\App.g.cs
+D:\User\Development\Visual Stadio 2015\Projects\TouhouAI\TouhouAIUI\TouhouAIUI\obj\Release\TouhouAIUI_MarkupCompile.cache
+D:\User\Development\Visual Stadio 2015\Projects\TouhouAI\TouhouAIUI\TouhouAIUI\obj\Release\TouhouAIUI_MarkupCompile.lref
+D:\User\Development\Visual Stadio 2015\Projects\TouhouAI\TouhouAIUI\TouhouAIUI\obj\Release\MainWindow.baml
+D:\User\Development\Visual Stadio 2015\Projects\TouhouAI\TouhouAIUI\TouhouAIUI\obj\Release\TouhouAIUI.g.resources
+D:\User\Development\Visual Stadio 2015\Projects\TouhouAI\TouhouAIUI\TouhouAIUI\obj\Release\TouhouAIUI.Properties.Resources.resources
+D:\User\Development\Visual Stadio 2015\Projects\TouhouAI\TouhouAIUI\TouhouAIUI\obj\Release\TouhouAIUI.csproj.GenerateResource.Cache
+D:\User\Development\Visual Stadio 2015\Projects\TouhouAI\TouhouAIUI\TouhouAIUI\obj\Release\TouhouAIUI.exe
+D:\User\Development\Visual Stadio 2015\Projects\TouhouAI\TouhouAIUI\TouhouAIUI\obj\Release\TouhouAIUI.pdb
+D:\User\Development\Visual Stadio 2015\Projects\TouhouAI\TouhouAIUI\TouhouAIUI\bin\Release\TouhouAILogic.dll
+D:\User\Development\Visual Stadio 2015\Projects\TouhouAI\TouhouAIUI\TouhouAIUI\bin\Release\TouhouAILogic.pdb
